@@ -1,5 +1,6 @@
 package programmers;
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 public class lv1_ÆùÄÏ¸ó {
 
@@ -32,4 +33,9 @@ public class lv1_ÆùÄÏ¸ó {
         }
     }
 >>>>>>> 94a526742027e983494cc284430202e27c1faf41
+=======
+
+public class lv1_ÆùÄÏ¸ó {
+
+>>>>>>> parent of 44403cc (í”„ë¡œê·¸ëž˜ë¨¸ìŠ¤ LV1_ì‹¤íŒ¨ìœ¨ | +a)
 }
