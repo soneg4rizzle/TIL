@@ -1,7 +1,7 @@
 package programmers;
 import java.util.*;
 
-class lv1_prob_1 {
+class lv1_로또의_최고_순위와_최저_순위 {
     public int[] solution(int[] lottos, int[] win_nums) {
         int[] answer = {0, 0};
         int unknown_num = 0;

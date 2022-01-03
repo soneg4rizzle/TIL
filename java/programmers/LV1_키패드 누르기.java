@@ -1,6 +1,6 @@
 package programmers;
 
-public class lv1_prob_4 {
+public class lv1_키패드_누르기 {
 	 public String solution(int[] numbers, String hand) {
 	        int nl = numbers.length;
 	        int l_loc = 10;

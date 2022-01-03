@@ -1,7 +1,7 @@
 package programmers;
 import java.util.Stack;
 
-public class lv1_prob_5 {
+public class lv1_크레인_인형뽑기_게임 {
 	 public int solution(int[][] board, int[] moves) {
 	        int answer = 0;
 	        Stack<Integer> stack = new Stack<>(); // 바구니 역할의 스택

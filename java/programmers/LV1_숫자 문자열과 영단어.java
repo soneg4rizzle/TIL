@@ -1,6 +1,6 @@
 package programmers;
 
-public class lv1_prob_3 {
+public class lv1_숫자_문자열과_영단어 {
 	 public int solution(String s) {
 	        // 영어로 된 부분에 해당되는 숫자로 변환해서 출력
 	        // one23four5 -> 12345 로 변환하면 성공

@@ -2,7 +2,7 @@ package programmers;
 import java.util.HashMap;
 import java.util.Map;
 
-class lv1_prob_10 {
+class lv1_완주하지_못한_선수 {
     public String solution(String[] participant, String[] completion) {
         String answer = "";
         HashMap<String, Integer> hm = new HashMap<String, Integer>();

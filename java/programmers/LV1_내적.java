@@ -1,6 +1,6 @@
 package programmers;
 
-public class lv1_prob_8 {
+public class lv1_³»Àû {
 	 public int solution(int[] a, int[] b) {
 	        int answer = 0;
 	        

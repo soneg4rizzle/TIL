@@ -1,6 +1,6 @@
 package programmers;
 
-public class lv1_prob_6 {
+public class lv1_없는_숫자_더하기 {
 	public int solution(int[] numbers) {
         int answer = 0;
         

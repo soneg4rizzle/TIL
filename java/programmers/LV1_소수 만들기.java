@@ -1,6 +1,6 @@
 package programmers;
 
-public class lv1_prob_9 {
+public class lv1_소수_만들기 {
 	public int solution(int[] nums) {
         int answer = 0;
         int atm = combination(nums);

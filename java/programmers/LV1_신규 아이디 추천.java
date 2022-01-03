@@ -1,6 +1,6 @@
 package programmers;
 
-public class lv1_prob_2 {
+public class lv1_신규_아이디_추천 {
 	public String solution(String new_id) {
         String answer = "";
         

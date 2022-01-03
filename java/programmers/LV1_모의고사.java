@@ -1,7 +1,7 @@
 package programmers;
 import java.util.ArrayList;
 
-class lv1_prob_12 {
+class lv1_모의고사 {
     public int[] solution(int[] answers) {
         int[] answer = {}; // 1 2 3 4 5
         int[][] p = new int[][] {{1, 2, 3, 4, 5}, {2, 1, 2, 3, 2, 4, 2, 5}, {3, 3, 1, 1, 2, 2, 4, 4, 5, 5}};

@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Collections;
 
-class lv1_prob_11 {
+class lv1_K¹øÂ°¼ö {
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];
         
