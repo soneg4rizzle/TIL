@@ -81,4 +81,4 @@ int a -> a * a  // ERROR : type이 있으므로 괄호 생략 불가능
 
 
 ##공부에 참고한 사이트
-> [남궁성의 정석코딩]("https://www.youtube.com/watch?v=3wnmgM4qK30")
+> [남궁성의 정석코딩](https://www.youtube.com/watch?v=3wnmgM4qK30)
